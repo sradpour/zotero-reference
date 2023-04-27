@@ -4,9 +4,9 @@
   "description": "侧边栏展示阅读文献的所有参考文献，多源浮窗，推荐关联...",
   "config": {
     "addonName": "Zotero Reference",
-    "addonID": "zoteroreference@polygon.org",
-    "addonRef": "zoteroreference",
-    "addonInstance": "ZoteroReference",
+    "addonID": "WhatEverThisShouldBe",
+    "addonRef": "zoteroreferenceTest",
+    "addonInstance": "ZoteroReferenceTest",
     "releasepage": "https://github.com/muisedestiny/zotero-reference/releases/latest/download/zotero-reference.xpi",
     "updaterdf": "https://raw.githubusercontent.com/muisedestiny/zotero-reference/bootstrap/update.json"
   },
