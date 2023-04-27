@@ -7,8 +7,8 @@
     "addonID": "WhatEverThisShouldBe",
     "addonRef": "zoteroreferenceTest",
     "addonInstance": "ZoteroReferenceTest",
-    "releasepage": "C:\Users\siard\OneDrive - The New School\Documents 1\GitHub\zotero-reference/zotero-reference.xpi",
-    "updaterdf": "C:\Users\siard\OneDrive - The New School\Documents 1\GitHub\zotero-reference/update.json"
+    "releasepage": "https://github.com/sradpour/zotero-reference/zotero-reference.xpi",
+    "updaterdf": "https://github.com/sradpour/zotero-reference/update.json"
   },
   "main": "src/index.ts",
   "scripts": {
